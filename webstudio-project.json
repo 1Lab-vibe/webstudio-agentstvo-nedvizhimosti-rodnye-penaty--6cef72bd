@@ -1,11 +1,7 @@
 {
   "leadId": "6cef72bd-952a-4179-8412-3acfff09b0b5",
   "businessName": "Агентство недвижимости \"Родные Пенаты\"",
-  "city": "Москва",
-  "niche": "риелторы",
   "publicUrl": "https://webstudio.1true.ru/projects/agentstvo-nedvizhimosti-rodnye-penaty--6cef72bd/",
-  "slug": "agentstvo-nedvizhimosti-rodnye-penaty--6cef72bd",
-  "strategy": "coder_template_preview",
   "fallbackReason": "manual_top_diagnosis_coder_template_smoke",
-  "deployedAt": "2026-05-12T09:56:17.911Z"
+  "publishedToGitHubAt": "2026-05-12T09:56:23.439Z"
 }
